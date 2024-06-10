@@ -144,12 +144,7 @@
         <source>Use local language for the UI</source>
         <translation>界面使用本地语言</translation>
     </message>
-    <message>
-        <location line="+23"/>
-        <source>About</source>
-        <translation>帮助</translation>
-    </message>
- 
+
     <message>
         <location filename="../src/anylink.cpp" line="+200"/>
         <source>Couldn&apos;t open log file</source>
